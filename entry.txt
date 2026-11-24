@@ -1,0 +1,1 @@
+My agent spent an hour calling a tool that doesn't exist, then summarised the failure as 'mission accomplished'.
